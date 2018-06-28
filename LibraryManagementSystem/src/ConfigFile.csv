@@ -1,0 +1,4 @@
+Key,Value
+dbUrl,jdbc:mysql://localhost:3306/world
+dbUserName,root
+dbPassword,MySqlDB18
